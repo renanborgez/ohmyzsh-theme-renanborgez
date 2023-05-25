@@ -2,7 +2,7 @@
 
 ## Description
 
-An oh-my-zsh theme
+A minimalistic oh-my-zsh theme
 
 ![RenanBorgez Terminal Theme](./assets/screenshot.png)
 
